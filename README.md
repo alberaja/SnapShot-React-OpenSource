@@ -18,6 +18,10 @@ https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=636e14
 ![image](https://github.com/alberaja/SnapShot-React-OpenSource/assets/29755489/3b40e0ea-932b-4c69-994c-1e506d6ede33)
 ![image](https://github.com/alberaja/SnapShot-React-OpenSource/assets/29755489/987bc81e-7569-47b3-b1df-1c468c99243e)
 
+Luego cada img se alberga dentro de:
+https://farm66.staticflickr.com/65535/{id}_{secret}_m.jpg   ej:
+
+https://farm66.staticflickr.com/65535/53311391973_b77204ddb2_m.jpg
 
 
 [Demo of Snap Shot](https://yog9.github.io/SnapShot/)
