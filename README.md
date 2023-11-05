@@ -14,6 +14,7 @@ Ej para tag="malta":
 
 https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=636e1481b4f3c446d26b8eb6ebfe7127&tags=malta&per_page=24&format=json&nojsoncallback=1
 ![image](https://github.com/alberaja/SnapShot-React-OpenSource/assets/29755489/2cf288da-68e9-4f71-8330-d28202be376e)
+![image](https://github.com/alberaja/SnapShot-React-OpenSource/assets/29755489/d6463dbb-3f6c-4503-b1f6-5a87534d6dec)
 ![image](https://github.com/alberaja/SnapShot-React-OpenSource/assets/29755489/3b40e0ea-932b-4c69-994c-1e506d6ede33)
 ![image](https://github.com/alberaja/SnapShot-React-OpenSource/assets/29755489/987bc81e-7569-47b3-b1df-1c468c99243e)
 
